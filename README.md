@@ -1,4 +1,4 @@
-# Kratos Project Template
+# Kratos Kubernetes like Project Template
 
 ## Install Kratos
 ```

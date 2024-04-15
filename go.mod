@@ -1,6 +1,6 @@
-module github.com/go-kratos/kratos-layout
+module github.com/ifuryst/kratos-k8s-like-layout
 
-go 1.19
+go 1.22
 
 require (
 	github.com/go-kratos/kratos/v2 v2.7.2
